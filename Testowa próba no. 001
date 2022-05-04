@@ -6,3 +6,4 @@ print("arbuzy arbuzy arbuzy arbuzy arbuzy arbuzy arbuzy arbuzy arbuzy arbuzy arb
 print("Parostatkiem w piękny rejs")
 for i in range(0, 40, 2):
   print(i)
+Print("W")
